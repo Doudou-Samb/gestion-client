@@ -1,0 +1,116 @@
+body{
+    background: linear-gradient(90deg, #BDBCBC 0%, #FFF 45.13%, #FFF 50.23%, #C5C4C4 99.48%);
+
+}
+
+.text{
+    position: relative;
+    width: 832px;
+    height: 86px;
+    flex-shrink: 0;
+    color: #818181;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    top: 50px;
+    left: 400px;
+}
+
+
+.id{
+    font-size: medium;
+    position: relative;
+    width: 400px;
+    height: 100px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    top: 170px;
+    left: 110px;
+
+}
+
+.mdp{
+font-size: medium;
+position: relative;
+width: 300px;
+height: 30px;
+flex-shrink: 0;
+border-radius: 30px;
+background: #FFF;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+top: 170px;
+left: 230px;
+
+}
+
+
+
+.retour{
+    position:relative ;
+    width: 46px;
+    height: 46px;
+    flex-shrink: 0;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    left: 1000px;
+    bottom: 20px;
+    border-radius: 40px;
+   
+}
+
+.liste{
+    position: absolute;
+width: 400px;
+height: 90px;
+left: 500px;
+top: 412px;
+
+background: #949494;
+border-radius: 50px;
+}
+
+.liste2{
+    position: absolute;
+width: 358px;
+height: 46px;
+left: 616px;
+top: 406px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #FFFFFF;
+}
+
+.ajout{
+    position: absolute;
+width: 400px;
+height: 90px;
+left: 500px;
+top: 212px;
+background: #949494;
+border-radius: 50px;
+}
+
+.ajout2{
+    position: absolute;
+width: 358px;
+height: 46px;
+left: 600px;
+top: 200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #ffffff;
+}
+
